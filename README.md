@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently reading **Effective TypeScript**
+- 🌱 I’m currently reading **Vue.js设计与实现**
 <!--
 **likui628/likui628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
